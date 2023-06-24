@@ -1,0 +1,8 @@
+D:\Facultate Nou\AF-26.05\AF-26.05\bin\Debug\AF-26.05.exe.config
+D:\Facultate Nou\AF-26.05\AF-26.05\bin\Debug\AF-26.05.exe
+D:\Facultate Nou\AF-26.05\AF-26.05\bin\Debug\AF-26.05.pdb
+D:\Facultate Nou\AF-26.05\AF-26.05\obj\Debug\AF-26.05.csproj.AssemblyReference.cache
+D:\Facultate Nou\AF-26.05\AF-26.05\obj\Debug\AF-26.05.csproj.SuggestedBindingRedirects.cache
+D:\Facultate Nou\AF-26.05\AF-26.05\obj\Debug\AF-26.05.csproj.CoreCompileInputs.cache
+D:\Facultate Nou\AF-26.05\AF-26.05\obj\Debug\AF-26.05.exe
+D:\Facultate Nou\AF-26.05\AF-26.05\obj\Debug\AF-26.05.pdb
