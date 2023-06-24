@@ -1,0 +1,17 @@
+D:\Facultate Nou\AF-12.05\AF-12.05\bin\Debug\net6.0-windows\AF-12.05.exe
+D:\Facultate Nou\AF-12.05\AF-12.05\bin\Debug\net6.0-windows\AF-12.05.deps.json
+D:\Facultate Nou\AF-12.05\AF-12.05\bin\Debug\net6.0-windows\AF-12.05.runtimeconfig.json
+D:\Facultate Nou\AF-12.05\AF-12.05\bin\Debug\net6.0-windows\AF-12.05.dll
+D:\Facultate Nou\AF-12.05\AF-12.05\bin\Debug\net6.0-windows\AF-12.05.pdb
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.csproj.AssemblyReference.cache
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF_12._05.Form1.resources
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.csproj.GenerateResource.cache
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.AssemblyInfoInputs.cache
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.AssemblyInfo.cs
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.csproj.CoreCompileInputs.cache
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.dll
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\refint\AF-12.05.dll
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.pdb
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\AF-12.05.genruntimeconfig.cache
+D:\Facultate Nou\AF-12.05\AF-12.05\obj\Debug\net6.0-windows\ref\AF-12.05.dll
